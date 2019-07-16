@@ -1,37 +1,16 @@
-## 我终于有自己的网页啦！哈哈哈哈哈哈。是free的。
-
-You can use the [editor on GitHub](https://github.com/pyh0009/pyh0009/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pyh0009/pyh0009/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<title>标题哦！OAO</title>
+</head>
+<body>
+<pre>
+<h1><center style=color:red;font-size:50px>这是第一个网页。</center>
+<center><sup>腻不腻害。</sup></center>
+<center><big>OWO</big></center>
+</h1>
+<h6><small><br/><center>↓↓↓下面为华丽的下划线↓↓↓<center></small></h6>
+<br/>
+<hr>
+<a href="C:\Users\Administrator\Desktop\该网页无法访问.html"><center><abbr title="可能会有坑哦A.A">超链接在此</abbr><h6 style=color:red>(猜猜会跳到哪)</h6></center></a>
+</body>
+</html>
